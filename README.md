@@ -1,7 +1,7 @@
 <h1>Keylogger</h1>
 
 <h2>Description</h2>
-Project consists of a simple keylogger. 
+This project consists of a simple python keylogger that reads key strokes from a txt file within the pycharm project directory. Works in a Linux Environment.
 <i>Followed tutorials to build this and various blog posts. Inspired by: <b>Aleksa Tamburkovski's</b> Youtube</i>
 <br />
 
