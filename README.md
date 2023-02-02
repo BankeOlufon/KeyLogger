@@ -34,7 +34,7 @@ Write text in pycharm <br/>
 <br/>
 
 <p align = "center">
-<b> To conclude, the <i>keyloggershhh.txt</i> file is where the keylogger gets info from and writes to terminal when the 'cat' command is used. I will still figure out how to extract info frok other sources, e.g browser, etc </b>
+<b> To conclude, the <i>keyloggershhh.txt</i> file is where the keylogger gets info from and writes to terminal when the 'cat' command is used. I will still figure out how to extract info from other sources, e.g browser, etc </b>
 <img src = "https://i.postimg.cc/Bn0SgVDB/Screenshot-2023-02-02-094803.jpg"/>
 <br/>
   
