@@ -21,6 +21,10 @@ Check if Python is Installed <br/>
 Check how to install compiler to convert to .exe file for Windows <br/>
 <img src = "https://i.postimg.cc/gJ6yD680/Screenshot-2023-02-02-010524.jpg"/>
 <br/>
-  
+
+<p align="center">
+Already had it installed 😅 <br/>
+<img src = "https://i.postimg.cc/L6ZX83R5/Screenshot-2023-02-02-010859.jpg"/>
+<br/>
 </p>
 
