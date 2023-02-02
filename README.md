@@ -33,9 +33,14 @@ Write text in pycharm <br/>
 <img src = "https://i.postimg.cc/HsH1K4NM/Screenshot-2023-02-02-040325.jpg"/>
 <br/>
 
+<p align = "center">
+<b> To conclude, the <i>keyloggershhh.txt</i> file is where the keylogger gets info from and writes to terminal when the 'cat' command is used. I will still figure out how to extract info frok other sources, e.g browser, etc </b>
+<img src = "https://i.postimg.cc/Bn0SgVDB/Screenshot-2023-02-02-094803.jpg"/>
+<br/>
+  
 <p align="center">
 Output in Linux terminal <br/>
-<img src = "https://i.postimg.cc/25d6p8wj/Screenshot-2023-02-02-040052.jpg"/>
+<img src = "https://i.postimg.cc/Y2J78sgy/Screenshot-2023-02-02-095234.jpg"/>
 <br/>
 
 </p>
