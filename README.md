@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 Project consists of a simple keylogger. 
-<i>Followed tutorials for this and various blog posts. Inspired by: <b>Aleksa Tamburkovski's</b> Youtub.e</i>
+<i>Followed tutorials to build this and various blog posts. Inspired by: <b>Aleksa Tamburkovski's</b> Youtube</i>
 <br />
 
 
