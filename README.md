@@ -1,7 +1,8 @@
 <h1>Keylogger</h1>
 
 <h2>Description</h2>
-Project consists of a simple simple keylogger. <i>*Inspired by Youtube, StackOverflow</i>
+Project consists of a simple keylogger. 
+<i>Followed tutorials for this and various blog posts. Inspired by: <b>Aleksa Tamburkovski's</b> Youtub.e</i>
 <br />
 
 
@@ -26,5 +27,16 @@ Check how to install compiler to convert to .exe file for Windows <br/>
 Already had it installed 😅 <br/>
 <img src = "https://i.postimg.cc/L6ZX83R5/Screenshot-2023-02-02-010859.jpg"/>
 <br/>
+
+<p align="center">
+Write text in pycharm <br/>
+<img src = "https://i.postimg.cc/HsH1K4NM/Screenshot-2023-02-02-040325.jpg"/>
+<br/>
+
+<p align="center">
+Output in Linux terminal <br/>
+<img src = "https://i.postimg.cc/25d6p8wj/Screenshot-2023-02-02-040052.jpg"/>
+<br/>
+
 </p>
 
