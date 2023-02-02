@@ -13,7 +13,7 @@ Project consists of a simple simple keylogger. <i>*Inspired by Youtube, StackOve
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Check if Python is Installed terminal<br/>
+Check if Python is Installed <br/>
 <img src="https://i.postimg.cc/pV4fSyyb/Screenshot-2023-02-02-005759.jpg"/>
 <br />
 
